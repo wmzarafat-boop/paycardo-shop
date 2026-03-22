@@ -1,0 +1,10 @@
+vendor
+node_modules
+.git
+.env
+.env.*
+storage/*.key
+storage/logs/*
+bootstrap/cache/*
+.DS_Store
+*.log
